@@ -1,4 +1,7 @@
 # Machine Learning Operations Specialization
+![Machine Learning Operations](https://learn.g2.com/hs-fs/hubfs/G2CM_FI427_Learn_Article_%5BMachine_learning_operationalization%5D_Infographic_image2b_V3-png.png?width=600)
+
+> 💡 Image taken from **🌐 [G2.com](https://www.g2.com/articles/mlops)**
 ## 📚 Courses:
 1. 🐍 [Python Essential For MLOps](https://www.coursera.org/learn/python-mlops-duke?specialization=mlops-machine-learning-duke)
     * logic, assigning variable, different data structure
